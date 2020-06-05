@@ -1,0 +1,1 @@
+const menuBtn = document.querySelector(".mobile-menu")
